@@ -1,0 +1,9 @@
+{
+  "name": "myContacts",
+  "version": "1.0.0",
+  "description": "projeto para cadastro de contatos",
+  "main": "api/src/index.js",
+  "repository": "https://github.com/JoaoFPessoa/myContacts",
+  "author": "JoaoFPessoa",
+  "license": "MIT"
+}
